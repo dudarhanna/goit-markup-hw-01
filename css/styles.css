@@ -156,7 +156,6 @@ body {
   height: 252px;
   background: var(--hero-footer-bg-cl);
 }
-
 .footer-address {
   font-size: 14px;
   line-height: 1.71;
@@ -199,7 +198,6 @@ body {
   color: var(--black-cl);
   background-color: var(--background-btn);
 }
-
 .btn-portfolio:hover,
 .btn-portfolio:focus {
   background-color: var(--accent-cl);
